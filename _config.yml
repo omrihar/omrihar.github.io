@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Omri Har-Shemesh's site
 locale:           en_US
-url:
+url:              #http://omrihar.github.io
 
 
 # Jekyll configuration
@@ -41,12 +41,12 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Omri Har-Shemesh
+  avatar: omri.jpg
+  bio: "Working on my PhD, raising a daughter, bouldering, doing some photography and now writing..."
+  email: o.harshemesh@uva.nl
   disqus-shortname:
-  twitter: #username
+  twitter: omrihar
   facebook: #username
   google:
     plus: #username
@@ -54,23 +54,12 @@ owner:
     verify:
     ad-client:
     ad-slot:
-  bing-verify:
-  github: #username
+  github: omrihar
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
+  linkedin: omri-har-shemesh-a79a5b5
   flickr: #username
-  codepen: #username
+
+timezone: Europe/Amsterdam
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

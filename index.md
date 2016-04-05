@@ -1,9 +1,8 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
-image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+excerpt: "Omri's Personal Website"
+title: "About me"
+tags: [Academic website, research, omri]
 ---
+
+Under construction...
