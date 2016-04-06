@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /research/
-title: Research interests
+permalink: /cv/
+title: My Curriculum Vitae
 tags: [about]
 modified: 2016-04-05
 comments: false
 share: false
 ---
 
-Under construction...
+This page is still under construction, but you can download my CV in PDF form 
+[here]({{ site.url }}/assets/pdfs/cv.pdf).
