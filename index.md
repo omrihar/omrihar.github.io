@@ -15,8 +15,8 @@ mainly interested in the use of [Information Geometry][IG] in the study of
 [phase transitions][pt] in [complex adaptive systems][cas].
 
 When I'm not working on my PhD I tend to take care of my 6 months old daughter,
-go bouldering at [Monk Bouldergym][monk] or get excited about some exciting new
-(or old) `python` library.
+go bouldering at [Monk Bouldergym][monk] or get excited about a new
+(or old) awesome `python` library.
 
 [csl]: http://uva.computationalscience.nl
 {:target='_blank'}

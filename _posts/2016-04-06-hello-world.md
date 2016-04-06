@@ -26,6 +26,6 @@ liberally copied ideas (and code) from
 I still want to update quite a bit in the website and then I intend to start
 blogging, sharing my ideas, projects, experiences and just stuff I don't want
 to forget how to do. I hope you will enjoy this and that this will not be my
-last post, as well as my first :-)
+last post as well as my first :-)
 
 Omri
