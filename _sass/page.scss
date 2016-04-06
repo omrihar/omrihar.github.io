@@ -284,7 +284,7 @@ $button-size: 1.5rem;
 			@include font-rem(14);
 		}
 		p+p {
-			text-indent: 0;
+			text-indent: 0 !important;
 		}
 	}
 }
