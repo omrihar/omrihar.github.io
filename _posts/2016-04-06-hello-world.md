@@ -17,11 +17,12 @@ front of a computer tinkering with code is learning some new technologies and
 the fact that GitHub pages uses `Jekyll` to render their webpages really got me
 excited.
 
-So I browsed the web, found [this excellent post](http://jponttuset.github.io/building-an-academic-website/)
+So I browsed the web, found [this excellent
+post](http://jponttuset.github.io/building-an-academic-website/){:target="_blank"}
 on how to set-up an academic website, forked the [Minimal Mistakes
-theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/) and
+theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/){:target="_blank"} and
 liberally copied ideas (and code) from
-[jponttuset.github.io](http://jponttuset.github.io). And here I am!
+[jponttuset.github.io](http://jponttuset.github.io){:target="_blank"}. And here I am!
 
 I still want to update quite a bit in the website and then I intend to start
 blogging, sharing my ideas, projects, experiences and just stuff I don't want
