@@ -281,7 +281,7 @@ $button-size: 1.5rem;
 			}
 		}
 		p {
-			@include font-rem(14);
+			@include font-rem(18);
 		}
 		p+p {
 			text-indent: 0;
@@ -460,7 +460,7 @@ $button-size: 1.5rem;
 		margin-top: 1em;
 	}
 	p {
-		@include font-rem(14);
+		@include font-rem(18);
 	}
 }
 
