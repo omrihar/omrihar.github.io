@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Python's multiprocessing module
+title: Using Python's multiprocessing module to perform parameter sweeps
 link: http://kmdouglass.github.io/posts/learning-pythons-multiprocessing-module.html
 share: false
 ---
