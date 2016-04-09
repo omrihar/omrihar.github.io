@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: My Curriculum Vitae
 tags: [about]
@@ -8,5 +8,4 @@ comments: false
 share: false
 ---
 
-This page is still under construction, but you can download my CV in PDF form 
-[here]({{ site.url }}/assets/pdfs/cv.pdf).
+You can download my full CV in PDF form [here]({{ site.url }}/assets/pdfs/cv.pdf).

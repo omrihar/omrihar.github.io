@@ -41,32 +41,71 @@
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
-  <article>
+  <article class="page">
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
-    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/business.png" alt="Work Experience" width="70" height="70"></p>
-    <p align="center">&#8226 I am a <strong>post-doctoral researcher</strong> at <br><a href="http://www.vision.ee.ethz.ch/members/get_member.cgi?id=1" target="_blank">Prof. Luc Van Gool</a>'s <a href="http://www.vision.ee.ethz.ch/index.en.html" target="_blank">ETHZ vision group</a>.</p>
-    <p align="center">&#8226 I did an 8-month internship at <a href="http://www.disneyresearch.com/research-labs/disney-research-zurich/" target="_blank">Disney Research, Zürich</a>,<br>under the supervision of <a href="http://zurich.disneyresearch.com/~smolica/" target="_blank">Dr. Aljoscha Smolic</a>.</p>
-    <p align="center" class="bottom-three">&#8226 I collaborated with the startup <a href="http://fezoo.cat" target="_blank">Fezoo</a>.</p>
 
-    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/study2.png" alt="Education" width="70" height="70"></p>
-    <p align="center">&#8226 I have a <strong>PhD</strong> in Computer Vision, supervised by <a href="https://imatge.upc.edu/web/ferran" target="_blank">Prof. Ferran Marques</a>.</p>
-    <p align="center">&#8226 I visited <a href="http://www.cs.berkeley.edu/~malik/" target="_blank">Prof. Jitendra Malik</a>’s vision group in <a href="http://www.berkeley.edu" target="_blank">UC Berkeley</a>,<br>supervised by <a href="http://www.cs.berkeley.edu/~arbelaez/index.html" target="_blank">Dr. Pablo Arbeláez</a>.</p>
-    <p align="center" class="bottom-three">&#8226 I received a <strong>Mathematics</strong> degree, a <strong>Telecommunication</strong><br>engineering degree, and a <strong>Master</strong>´s degree from <a href="http://www.upc.edu" target="_blank">UPC Barcelonatech</a>.</p>
+    <!-- Studies -->
+    <div class="bottom-three">
+      <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/study2.png" alt="Education" width="70" height="70"></p>
+      <!-- PhD -->
+      <p align="center" >&#8226 I'm currently working on my
+      <strong>Ph.D.</strong> in <a href="http://uva.computationalscience.nl" target="_blank">Computational Science</a> under the supervision of
+      <a href="http://www.peter-sloot.com/" target="_blank">Prof. dr. Peter Sloot</a> and 
+      <a href="https://staff.fnwi.uva.nl/a.g.hoekstra/" target="_blank">Prof. dr. Alfons Hoekstra</a> at the
+      <a href="http://www.uva.nl" target="_blank">University of Amsterdam</a>.</p>
+      <!-- M.Sc. -->
+      <p align="center">&#8226 <strong>M.Sc.</strong> in Theoretical
+      Physics supervised by <a href="https://www.mpi-hd.mpg.de/personalhomes/tonywolf/" target="_blank">Dr. Antonino Di-Piazza</a> from the
+      <a href="http://www.mpi-hd.mpg.de" target="_blank">Max-Planck Institute for Nuclear Physics</a> 
+      and the <a href="http://www.uni-heidelberg.de" target="_blank"> University of Heidelberg</a>.</p>
+      <!-- B.Sc. -->
+      <p align="center" >&#8226 <strong>B.Sc.</strong> (cum laude) in
+      Physics and Astronomy from <a href="http://www.tau.ac.il" target="_blank">Tel-Aviv University</a>.
+      </p>
+    </div>
+
+    <!-- Work -->
+    <div align="center" class="bottom-three">
+      <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/business.png" alt="Work Experience" width="70" height="70"></p>
+
+      <!-- TravelBird -->
+      <p align="center" >&#8226 For a short time I was a back-end python developer at 
+      <a href="http://www.travelbird.nl" target="_blank">TravelBird.</a></p>
+      <!-- S-DH -->
+      <p align="center" >&#8226 I worked at <a href="http://www.s-dh.de"
+                                   target="_blank">S-DH GmbH</a> for two years during
+                                 my Masters. </p>
+      <!-- Teaching Assistant -->
+      <p align="center" >&#8226 I was a teaching assistant at the Hebrew
+      University for the courses: <i>Classical Mechanics</i>, <i>Analytical
+        Electrodynamics</i> and <i>The Standard Model of Elementary Particles</i> (Graduate
+      course).</p>
+      <!-- IDF -->
+      <p align="center" >&#8226 I was a communications sergeant and programmer
+      in the IDF. </p>
+    </div>
+
+    <!-- Computer Skills -->
+    <div align="center" class="bottom-three">
+      <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/computer2.png" alt="Computer Skills" width="80" height="80"></p>
+      <p align="center" >&#8226 These days <strong>Python</strong> is the go-to
+      choice. With <strong>numpy</strong>, <strong>scipy</strong>, <strong>pandas</strong>, <strong>matplotlib</strong>, and
+      <strong>Jupyter notebooks</strong> I hardly need anything else.</p>
+      <p align="center" >&#8226 In the past I used, in no particular order: <strong>c,
+        JavaScript, Matlab, Mathematica, VisualBasic, Pascal, Delphi, PHP</strong>. </p>
+      <p align="center" >&#8226 Last, but not least, <strong>vim</strong>,
+      <strong>git</strong> and <strong>LaTeX</strong>.</p>
+    </div>
     
-    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/computer2.png" alt="Computer Skills" width="80" height="80"></p>
-    <p align="center">&#8226 Give me the <strong>STL</strong> library and a <strong>VCS</strong> repository on which to store the <strong>C++</strong> code, and I shall move the world. Or was it about levers? &#12484;</p>
-    <p align="center">&#8226 I use <strong>Matlab</strong> and <strong>Python</strong> for fast prototyping and testing.</p>
-    <p align="center" class="bottom-three">&#8226 I cannot sleep at night if I have not committed my code or if I have not done enough <strong>unit tests</strong>.</p>
-    
-    <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/talk.png" alt="Languages" width="70" height="70"></p>
-    <p align="center">&#8226 El <strong>català</strong> és la meva llengua materna.</p>
-    <p align="center">&#8226 Hablo <strong>español</strong> como lengua materna.</p>
-    <p align="center">&#8226 My <strong>English</strong> is proficient.</p>
-    <p align="center">&#8226 Je parle un peu <strong>français</strong>.</p>
-    <p align="center" class="bottom-three">&#8226 Ich beginne <strong>Deutsch</strong> zu lernen.</p>
-    
-    
+    <!-- Languages -->
+    <div align="center" class="bottom-three">
+      <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/talk.png" alt="Languages" width="70" height="70"></p>
+      <p align="center" >&#8226 <strong>Hebrew</strong> is my mother tongue.</p>
+      <p align="center" >&#8226 <strong>English</strong> is a close contender.</p>
+      <p align="center" >&#8226 My <strong>German</strong> is fluent.</p>
+      <p align="center" >&#8226 <strong>Dutch</strong> is somewhat lagging behind but not completely hopeless.</p>
+    </div>
     
     {{ content }}
     </div><!-- /.article-wrap -->
