@@ -11,10 +11,10 @@ image:
 
 I'm a PhD candidate at the [Computational Science Lab][csl] under the supervision
 of [Prof. dr. Peter Sloot][peter] and [Prof. dr. Alfons Hoekstra][alfons]. I'm
-mainly interested in the use of [Information Geometry][IG] in the study of
+interested in the use of [Information Geometry][IG] to study 
 [phase transitions][pt] in [complex adaptive systems][cas].
 
-When I'm not working on my PhD I tend to take care of my 6 months old daughter,
+When I'm not working on my PhD I take care of my 6 months old daughter,
 go bouldering at [Monk Bouldergym][monk] or get excited about a new
 (or old) awesome `python` library.
 
