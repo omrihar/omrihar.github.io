@@ -1,6 +1,8 @@
 ---
 title: Using Python's multiprocessing module to perform parameter sweeps
 link: http://kmdouglass.github.io/posts/learning-pythons-multiprocessing-module.html
+share: false
+comments: true
 ---
 
 I recently wanted to perform a parameter sweep on a simple simulation in python
