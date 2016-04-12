@@ -28,7 +28,7 @@ results = pool.map(run_simulation, params)
 
 The `results` variable will contain a list of results, ordered in the same way
 as the provided `params` iterable. There might be some pitfalls when using on
-linux with `numpy`, see [the abovementioned blogpost][post] for a much better
+linux with `numpy`, see [the abovementioned blog post][post] for a much better
 explanation and discussion of pitfalls.
 
 [post]: http://kmdouglass.github.io/posts/learning-pythons-multiprocessing-module.html
