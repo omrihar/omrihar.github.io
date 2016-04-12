@@ -47,4 +47,3 @@ page](https://scholar.google.com/citations?user=81i6w6gAAAAJ){:target="_blank"}.
 {:target="_blank"}
 [book_chapter]: http://link.springer.com/chapter/10.1007/978-3-319-00521-8_8
 {:target="_blank"}
-
