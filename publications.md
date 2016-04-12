@@ -12,8 +12,9 @@ share: false
 
 - O. Har-Shemesh, R. Quax, A.G. Hoekstra, P.M.A. Sloot, __Information geometric
   analysis of phase transitions in complex patterns: the case of the Gray-Scott
-  reaction-diffusion model__, Accepted to JSTAT, [arXiv:1512.02077
-  \[cond-mat.stat-mech\]][gs_arxiv].
+  reaction-diffusion model__, [Journal of Statistical Mechanics: Theory and
+  Experiment, 043301 (2016)][gs_paper], [arXiv:1512.02077
+  [cond-mat.stat-mech]][gs_arxiv].
 
 - O. Har-Shemesh, B. Miñano, R. Quax, A.G. Hoekstra, P.M.A. Sloot,
   __Nonparametric estimation of Fisher information from real data__, [Phys. Rev.
@@ -36,6 +37,8 @@ page](https://scholar.google.com/citations?user=81i6w6gAAAAJ){:target="_blank"}.
 
 <!-- Links -->
 [gs_arxiv]: https://arxiv.org/abs/1512.02077
+{:target="_blank"}
+[gs_paper]: http://iopscience.iop.org/article/10.1088/1742-5468/2016/04/043301/meta;jsessionid=272040CCF2AF2AAECF0ED78FD5A0C078.c2
 {:target="_blank"}
 [methods_pre]: http://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.023301
 {:target="_blank"}
