@@ -286,14 +286,14 @@ $button-size: 1.5rem;
 			border-bottom: 1px solid lighten($black,70);
 		}
 		p {
-			@include font-rem(18);
+			@include font-rem(16);
 		}
 		p+p {
 			text-indent: 0;
 			margin-top: 1em;
 		}
 		p.excerpt {
-			@include font-rem(18);
+			@include font-rem(16);
 			padding-top: .3em;
 		}
 	}
@@ -469,7 +469,7 @@ $button-size: 1.5rem;
 		margin-top: 1em;
 	}
 	p {
-		@include font-rem(18);
+		@include font-rem(16);
 	}
 }
 
