@@ -10,3 +10,5 @@ _asset_bundler_cache
 *.un~
 *.pklz
 run
+assets/3DBookShowcase
+*.zip
