@@ -23,11 +23,13 @@ philosophical terms for stuff.
 # Setting the scene
 
 DeLanda starts by stating that Deleuze is a realist. What this means is that
-Deleuze believes (or assumes) that there is a material world outside his
-own perception of the world and that therefore one has to explain what this
-outside world is (ontology) and how we know about it (epistemology). This
-seemingly simple assumption (natural to most scientists) immediately raises the
-problem of essences and essentialism. 
+Deleuze believes (or assumes) that there is a material world outside his own
+perception of the world. Some realist approaches include in their ontology an
+assumption that the world is made of "fully formed objects whose identity is
+guaranteed by their possession of an _essence_, a core set of properties that
+define what these objects are." (DeLanda, pg. 5). Deleuze, like most social
+scientists nowadays, is not an essentialist. He also does not believe in the
+reality of any other transcendental entity. 
 
 ## Aside: the problem of essentialism
 
@@ -53,10 +55,13 @@ characteristics.
 
 ## Multiplicity
 
-Deleuze is not an essentialist and he answers the question of essence by use of
-the idea of morphogenesis. Things can be put in the same category because they
-went through a similar (evolutionary) process. To avoid the pitfall of having
-the essence transferred from the object to the process, he introduces the
-rather complex concept of _Multiplicity_. The definition of multiplicity is:
+Since Deleuze is not an essentialist, he needs to find a different way to
+explain what gives objects their identity, and what preserves this identity
+over time. What Deleuze uses instead of essences or other transcendental
+entities is the idea of _dynamical processes_. Some of these processes are
+material and energetic and some are not, but they all reside within the world
+of matter and energy. 
+
+(28)
 
 >  Definition of multiplicity is....
