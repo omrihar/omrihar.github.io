@@ -31,5 +31,13 @@ as the provided `params` iterable. There might be some pitfalls when using on
 linux with `numpy`, see [the abovementioned blog post][post] for a much better
 explanation and discussion of pitfalls.
 
+---
+_UPDATE_
+
+A way to solve the caveat of having to use only pickleable functions and objects is addressed in this [blog post][dill_post]. Thanks to my colleage Rick Quax for pointing this out!
+
 [post]: http://kmdouglass.github.io/posts/learning-pythons-multiprocessing-module.html
+{:target="_blank"}
+
+[dill_post]: http://matthewrocklin.com/blog/work/2013/12/05/Parallelism-and-Serialization
 {:target="_blank"}
