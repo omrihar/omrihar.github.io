@@ -14,7 +14,7 @@ of [Prof. dr. Peter Sloot][peter] and [Prof. dr. Alfons Hoekstra][alfons]. I'm
 interested in the use of [Information Geometry][IG] to study 
 [phase transitions][pt] in [complex adaptive systems][cas].
 
-When I'm not working on my PhD I take care of my 6 months old daughter,
+When I'm not working on my Ph.D. I take care of my baby daughter,
 go bouldering at [Monk Bouldergym][monk] or get excited about a new
 (or old) awesome `python` library.
 
